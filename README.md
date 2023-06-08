@@ -13,4 +13,4 @@ Do you have good programming skills?
 * Solution by [Your name] (Link to your solution)
 
 ### [Challenge-2](challenge-2.md)
-* Solution by [Your name] (Link to your solution)
+* Solution by [Adusumalli Sujitha] (https://github.com/adusumalliSujitha12/challenge2/tree/c532d53216e9f36dc34568467d65234818d2f06f)
